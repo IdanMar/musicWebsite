@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo&display=swap');
+
+body {
+	padding: 20px 10%;
+	background-color: #fffcf5;
+	font-family: 'Heebo', sans-serif;
+}
+
+button, select, option {
+		font-family: inherit;
+		font-size: 0.8em;
+}
+
+
+
+
+.custom-select {
+	display: block;
+  margin-top: 0.4em;
+}
+
+#checkAnswer{
+	margin-top: 0.6em;
+}
+
+#content {
+	  display: flex;
+    flex-direction: column;
+    align-items: center;
+		margin-top: 3em;
+}
+
+#hint_container {
+	margin-top: 0.8em;
+}
+
+#circle{
+	margin-top: 1em;
+	width: 18em;
+	display: none;
+}
+
+
